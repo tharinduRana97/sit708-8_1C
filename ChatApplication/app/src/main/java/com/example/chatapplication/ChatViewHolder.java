@@ -1,4 +1,4 @@
-package com.example.myapplication;
+package com.example.chatapplication;
 
 import android.view.Gravity;
 import android.view.View;
@@ -8,7 +8,7 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.example.myapplication.model.ChatMessage;
+import com.example.chatapplication.model.ChatMessage;
 
 public class ChatViewHolder extends RecyclerView.ViewHolder {
     private TextView messageText;

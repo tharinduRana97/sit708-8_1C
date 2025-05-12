@@ -1,4 +1,4 @@
-package com.example.myapplication.service;
+package com.example.chatapplication.service;
 
 
 import retrofit2.Call;

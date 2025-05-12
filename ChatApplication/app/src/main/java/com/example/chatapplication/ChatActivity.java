@@ -1,4 +1,4 @@
-package com.example.myapplication;
+package com.example.chatapplication;
 
 import android.os.Bundle;
 import android.os.Handler;
@@ -11,9 +11,9 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.example.myapplication.adapter.ChatAdapter;
-import com.example.myapplication.model.ChatMessage;
-import com.example.myapplication.service.ChatService;
+import com.example.chatapplication.adapter.ChatAdapter;
+import com.example.chatapplication.model.ChatMessage;
+import com.example.chatapplication.service.ChatService;
 
 import retrofit2.Call;
 import retrofit2.Callback;
